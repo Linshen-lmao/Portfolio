@@ -20,6 +20,6 @@
 
 
 ## Skills
-**Languages:** Python,R,SQL,Java,C
-**Specialty:** Statistical Modeling, Machine Learning
-**Frameworks:** Spark,XGBoost,Pandas
+- **Languages:** Python,R,SQL,Java,C
+- **Specialty:** Statistical Modeling, Machine Learning
+- **Frameworks:** Spark,XGBoost,Pandas
