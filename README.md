@@ -1,4 +1,4 @@
-# Data Scientist Portfolio
+# Portfolio
 Focused on bridging statistical rigor with scalable, domain-specific solutions
 
 
